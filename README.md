@@ -1,5 +1,5 @@
-The ks-nav library
-=======
+The iknsa-nav-2016 library
+==========================
 
 This library has a dependency on the [ks-core lib](https://github.com/ks-frontend/ks-core).
 
@@ -8,7 +8,7 @@ This library is a theme for a nav page.
 # Installation with bower
 
 ```console
-$ bower install ks-nav
+$ bower install iknsa-nav-2016
 ```
 
 [![Bower version](https://badge.fury.io/bo/ks-nav.svg)](http://badge.fury.io/bo/ks-nav)
